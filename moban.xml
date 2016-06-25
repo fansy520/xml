@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><students>
+<?php foreach($students as $student):?>
+    <student id="<?php echo $student['id']?>">
+        <name><?php echo $student['name']?></name>
+        <age><?php echo $student['age']?></age>
+    </student>
+<?php endforeach; ?>
+    </students>

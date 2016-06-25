@@ -1,0 +1,19 @@
+@charset "UTF-8";
+name
+{
+display: block;
+color: #FF0000;
+font-size: 20pt;
+}
+age
+{
+display: block;
+color: #0000FF;
+font-size: 20pt;
+}
+sex
+{
+display: block;
+color: #0000FF;
+font-size: 20pt;
+}

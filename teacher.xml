@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<teachers><teacher sn='0001'>
+    <name>关羽</name>
+    <age>28</age>
+    <sex>男</sex>
+    <students>
+        <student>
+            <name>张三</name>
+        </student>
+        <student>
+            <name>李四</name>
+        </student>
+        <student>
+            <name>王五</name>
+        </student>
+    </students>
+</teacher>
+    <teacher sn='0002'>
+        <name>张飞</name>
+        <age>27</age>
+        <sex>男</sex>
+        <students>
+            <student>
+                <name>小乔</name>
+</student><student>
+                <name>小花</name>
+</student><student>
+                <name>小李</name>
+            </student>
+        </students>
+    </teacher>
+    </teachers>
